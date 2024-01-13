@@ -24,7 +24,11 @@ let categoryList = [
   "History",
   "General",
   "Final",
-]; // TODO Empty Array
+];
+let categoryList2 = [
+];
+// TODO Empty Array
+// Use categoryList2 to pull categories for now
 // TODO Create a function that maps the API for 'different' category names and adds them to the "allCategoryList" Array
 // TODO Create another function that randomly selects 6 categories from the "allCategoryList" Array and adds them to the "categoryList" Array
 // TODO Create a fucntion that randomly selects the 5 questions within that category
