@@ -61,6 +61,51 @@ const placeholderQuestions = [
       question: "In Home on the Range, How does the villain steal cattle so easily?",
       answer: "through mind-control yodelling", // I'm not even joking
     },
+    {
+      category: "",
+      question: "Name the dogs that are Lady's neighbors, in Lady and the Tramp.",
+      answer: "Jock and Trusty",
+    },
+    {
+      category: "",
+      question: "In Lilo & Stitch, what flavor of ice cream falls off the fat guy's cone after Lilo takes a picture of him?",
+      answer: "Mint-Chocholate Chip", // something green with black speckles
+    },
+    {
+      category: "",
+      question: "In Lilo & Stitch, what storybook does Stitch read?",
+      answer: "The Ugly Ducking",
+    },
+    {
+      category: "",
+      question: "In the Lion King, where is Simba forbidden to go?",
+      answer: "The Elephant Graveyard, a shadowy place that is beyond the boarders of the Pride Lands.",
+    },
+    {
+      category: "",
+      question: "In the Lion King, why did all the animals bow down as Raffiki lifted Simba over his head?",
+      answer: "To honor the new king or because Pumba farted.",
+    },
+    {
+      category: "",
+      question: "In the Little Mermaid, How many daughters does King Triton have?",
+      answer: "Seven daughters",
+    },
+    {
+      category: "",
+      question: "In the Little Mermaid, which of King Triton's daughters is Ariel, age-wise?",
+      answer: "Ariel is the youngest",
+    },
+    {
+      category: "",
+      question: "In the Little Mermaid prequal, what does King Triton outlaw after his wife dies?",
+      answer: "King Triton bans singing and music because it reminds him of his wife.",
+    },
+    {
+      category: "",
+      question: "In the Little Mermaid prequal, who organizes an underground society to continue to partake in this banned action?",
+      answer: "Sebastion runs a nightclub where people come to sing.",
+    },
   
   ];
   
