@@ -173,7 +173,7 @@ const placeholderQuestions = [
     },
     {
       category: "",
-      question: "Who is the Narrator in Disney's Robin Hood?",
+      question: "Who is the narrator in Disney's Robin Hood?",
       answer: "Alan-a-Dale (a rooster)",
     },
     {
@@ -253,18 +253,53 @@ const placeholderQuestions = [
     },
     {
       category: "",
-      question: "Name the three gargoyles in The Hunchback of Notre Dame",
+      question: "Name the three gargoyles in The Hunchback of Notre Dame.",
       answer: "Victor, Hugo, Leverne",
     },
     {
       category: "",
-      question: "Who is the narrator in The Hunchback of Notre Dame",
+      question: "Who is the narrator in The Hunchback of Notre Dame?",
       answer: "The gypsy, Clopin Trouillefou",
     },
     {
       category: "",
-      question: "Who is the narrator in The Hunchback of Notre Dame",
-      answer: "The gypsy, Clopin Trouillefou",
+      question: "List all of Syndrome's aliases from The Incredibles.",
+      answer: "Syndrome, Incrediboy, Buddy Pine, The Sitter",// The Sitter is from the short Jack-Jack Attack
+    },
+    {
+      category: "",
+      question: "Who is the lead Elephant that Mowgli runs into in the Jungle Book?",
+      answer: "Colonel Hathi",
+    },
+    {
+      category: "",
+      question: "In The Princess and the Frog, what is the Shadowman's real name",
+      answer: "Doctor Facilier",
+    },
+    {
+      category: "",
+      question: "In The Princess and the Frog, who is Ray in love with?",
+      answer: "Evangeline, the Wishing Star",
+    },
+    {
+      category: "",
+      question: "In the Rescuers, what was the name of the person who needed Rescuing?",
+      answer: "Penny",
+    },
+    {
+      category: "",
+      question: "In the Rescuers, what was Madame Medusa looking for?",
+      answer: "The world's largest diamond, the Devil's Eye",
+    },
+    {
+      category: "",
+      question: "How does Merlin win the Wizards duel in The Sword in the Stone?",
+      answer: "By transforming into a rare disease",
+    },
+    {
+      category: "",
+      question: "Who hosts the Bad-Anon (villain's support group) meetings in Wreck-It Ralph?",
+      answer: "Clyde, the Pac-Man ghost",
     },
   
   ];
