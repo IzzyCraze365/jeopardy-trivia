@@ -106,6 +106,166 @@ const placeholderQuestions = [
       question: "In the Little Mermaid prequal, who organizes an underground society to continue to partake in this banned action?",
       answer: "Sebastion runs a nightclub where people come to sing.",
     },
+    {
+      category: "",
+      question: "Who died in Mary Poppins?",
+      answer: "The Elder Mr. Dawes.", // Senior
+    },
+    {
+      category: "",
+      question: "How did the character die in Mary Poppins?",
+      answer: "He died laughing.",
+    },
+    {
+      category: "",
+      question: "What did Mulan name her dog?",
+      answer: "Little Brother",
+    },
+    {
+      category: "",
+      question: "What objects does grandma give Mulan before she meets the matchmaker?",
+      answer: "an Apple (for serenity), a Pendant (for balance), Beads of Jade (for beauty) & a Cricket (just for Luck)",
+    },
+    {
+      category: "",
+      question: "In One Hundred and One Dalmatians, what is the network dogs use to communicate over great distances called?",
+      answer: "The Twilight Bark",
+    },
+    {
+      category: "",
+      question: "In Peter Pan, What is the name of the Darling's dog?",
+      answer: "Nana",
+    },
+    {
+      category: "",
+      question: "In Pete's Dragon, what is the name of the family that had a Bill of Sale for Pete?",
+      answer: "The Gogan's",
+    },
+    {
+      category: "",
+      question: "What is the name of Pinocchio's friend who convinces him to drink and smoke on Pleasure Island?",
+      answer: "Lampwick",
+    },
+    {
+      category: "",
+      question: "What kind of life does Honest John advocate for Pinocchio?",
+      answer: "An Actor's Life",
+    },
+    {
+      category: "",
+      question: "What does Pocahontas mistake the ship's sails for?",
+      answer: "Clouds, strange clouds",
+    },
+    {
+      category: "",
+      question: "Who is Pocahontas's best friend?",
+      answer: "Nakoma",
+    },
+    {
+      category: "",
+      question: "In Pocahontas, who eventually becomes Batman?",
+      answer: "Thomas", // voiced by Christian Bale
+    },
+    {
+      category: "",
+      question: "In Robin Hood, who are the Sherrif of Nottingham's two vulture guards?",
+      answer: "Trigger and Nutsy",
+    },
+    {
+      category: "",
+      question: "Who is the Narrator in Disney's Robin Hood?",
+      answer: "Alan-a-Dale (a rooster)",
+    },
+    {
+      category: "",
+      question: "In Sleeping Beauty, what are the gifts that the fairies give Princess Aurora?",
+      answer: "Flora- The Gift of Beauty, Fauna- the Gift of Song, Merryweather- a Ray of Hope (not Death, only Sleep)",
+    },
+    {
+      category: "",
+      question: "List each of the seven dwarfs from Snow White and the Seven Dwarfs and what musical instrument they play.",
+      answer: "Doc-Upright Bass, Dopey-Percussion, Sleepy-Clarinet, Sneezy-Lute, Grumpy-Organ, Bashful-Accordian, Happy- Yodels",
+    },
+    {
+      category: "",
+      question: "What kind of pie did Snow White bake for Grumpy?",
+      answer: "Gooseberry Pie",
+    },
+    {
+      category: "",
+      question: "In Song of the South, what character sings Zip-a-dee-do-da?",
+      answer: "Uncle Remus",
+    },
+    {
+      category: "",
+      question: "What ride in the Magic Kingdom amusement park was inspired by Song of the South?",
+      answer: "Splash Mountain", // based off the brair patch
+    },
+    {
+      category: "",
+      question: "In Tangled, what is the name of the pub that Flynn and Rapunzle go to?",
+      answer: "The Snuggly Duckling",
+    },
+    {
+      category: "",
+      question: "In The Adventures of Ichabod and Mr. Toad, who are Toad's four closest friends and what kinds of animals are they?",
+      answer: "Angus MacBadger (a badger), Moley (a mole), Ratty (a water rat), Cyril (a horse)",
+    },
+    {
+      category: "",
+      question: "In The Adventures of Ichabod and Mr. Toad, what is Toad's full name?",
+      answer: "Thaddeus J. Toad",
+    },
+    {
+      category: "",
+      question: "In The Aristocats, who is the geese's uncle?",
+      answer: "Uncle Waldo",
+    },
+    {
+      category: "",
+      question: "In The Aristocats, what is Dutchess and her kittens' favorate meal?",
+      answer: "Crème de la Crème a la Eggbert",
+    },
+    {
+      category: "",
+      question: "What is the Princess's name in the Black Cauldron?",
+      answer: "Princess Eilonwy",
+    },
+    {
+      category: "",
+      question: "In The Emperor's New Groove, what is the name of the restaurant everyone stops to eat in?",
+      answer: "Mudka's Meat Hut",
+    },
+    {
+      category: "",
+      question: "Name the Fox and the Hound from the Fox and the Hound.",
+      answer: "Todd and Copper",
+    },
+    {
+      category: "",
+      question: "In The Great Mouse Detective, what is Olivia's last name?",
+      answer: "Flaversham",
+    },
+    {
+      category: "",
+      question: "In The Great Mouse Detective, what is the name of Basil's hound?",
+      answer: "Toby",
+    },
+    {
+      category: "",
+      question: "Name the three gargoyles in The Hunchback of Notre Dame",
+      answer: "Victor, Hugo, Leverne",
+    },
+    {
+      category: "",
+      question: "Who is the narrator in The Hunchback of Notre Dame",
+      answer: "The gypsy, Clopin Trouillefou",
+    },
+    {
+      category: "",
+      question: "Who is the narrator in The Hunchback of Notre Dame",
+      answer: "The gypsy, Clopin Trouillefou",
+    },
   
   ];
   
