@@ -232,6 +232,11 @@ const placeholderQuestions = [
       answer: "Princess Eilonwy",
     },
     {
+      category: "Disney Villains",
+      question: "Who is the villain in the Black Cauldron?",
+      answer: "The Horned King",
+    },
+    {
       category: "",
       question: "In The Emperor's New Groove, what is the name of the restaurant everyone stops to eat in?",
       answer: "Mudka's Meat Hut",
