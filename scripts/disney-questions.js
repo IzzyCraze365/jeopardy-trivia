@@ -58,6 +58,11 @@ const placeholderQuestions = [
     },
     {
       category: "",
+      question: "In Hercules, how many Muses are there?",
+      answer: "5",
+    },
+    {
+      category: "",
       question: "In Home on the Range, How does the villain steal cattle so easily?",
       answer: "through mind-control yodelling", // I'm not even joking
     },
